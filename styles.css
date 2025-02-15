@@ -79,5 +79,13 @@ footer {
 }
 
 .social-icon {
-  vertical-align: middle;
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
+
+.social-text {
+  display: flex;
+  align-items: center;
+  line-height: 1.5;
 }
