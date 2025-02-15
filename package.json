@@ -1,0 +1,14 @@
+{
+  "name": "groundsforconnection",
+  "version": "1.0.0",
+  "description": "Website for our networking podcast",
+  "main": "index.html",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mothemelon.github.io/GroundsForConnection/",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
