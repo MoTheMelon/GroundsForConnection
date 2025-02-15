@@ -70,3 +70,14 @@ footer {
     margin-bottom: 10px;
   }
 }
+
+.social-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 5px 0;
+}
+
+.social-icon {
+  vertical-align: middle;
+}
